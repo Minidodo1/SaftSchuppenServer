@@ -1,0 +1,10 @@
+name: MiniCore
+version: 0.0.1
+description: FM by Minidodo
+author: Minidodo
+website: https://dodoswelt.de
+main: de.dodoswelt.minidodo.CoreM
+commands:
+  core:
+    usage: /core
+    description: Core Command
